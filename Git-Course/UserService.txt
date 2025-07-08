@@ -3,3 +3,4 @@ process the user data
 adding new line
 java line added...
 changes done
+create an avatar for user
